@@ -1,0 +1,14 @@
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\oc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\oc.AssemblyInfoInputs.cache
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\oc.AssemblyInfo.cs
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\oc.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\bin\Debug\net7.0\oc.exe
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\bin\Debug\net7.0\oc.deps.json
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\bin\Debug\net7.0\oc.runtimeconfig.json
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\bin\Debug\net7.0\oc.dll
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\bin\Debug\net7.0\oc.pdb
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\oc.dll
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\refint\oc.dll
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\oc.pdb
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\oc.genruntimeconfig.cache
+C:\Users\gomez\Source\Repos\MikeProduce\oliver\oc\obj\Debug\net7.0\ref\oc.dll
